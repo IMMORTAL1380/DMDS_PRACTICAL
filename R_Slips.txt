@@ -1,0 +1,81 @@
+
+Q.1 	Write an R program to find the maximum and the minimum value of a given vector. *										[25 M]
+
+Q.2 	Write an R program to sort a Vector in ascending and descending order.	[25 M]*
+
+Q.3 	Write an R program to compare two data frames to find the elements in first data frame that are not presen
+t in second data frame.				[25 M]*
+
+Q.4 	Write an R program to extract first 10 English letter in lower case and last 10 letters in upper case and extract letters between 22nd to 24th letters in upper case.	[25 M]*
+
+Q.5 	Write an R program to find Sum, Mean and Product of a Vector.		[25 M]*
+
+Q.6 	Write an R program to create a simple bar plot of five subject’s marks. 	[25 M]
+
+Q.7 	Write an R program to create a Dataframes which contain details of 5 employees and display the details in ascending order.					[25 M]*
+
+Q.8 	Write an R program to create a data frame using two given vectors and display the duplicated elements and unique rows of the said data frame.			[25 M]*
+
+Q.9 	Write an R program to change the first level of a factor with another level of a given factor.										[25 M]*
+Q.10 	Write a script in R to create a list of cities and perform the following *
+		1) Give names to the elements in the list.
+		2) Add an element at the end of the list.
+		3) Remove the last element.
+		4) Update the 3rd Element							[25 M]
+
+Q.11	Write a script in R to create two vectors of different lengths and give these vectors as input 	to array and print addition and subtraction of those matrices.	*		[25 M]
+
+Q.12 	Write an R Program to calculate Multiplication Table			* [25 M]
+
+Q.13	Consider the inbuilt iris dataset
+       i) Create a variable “y” and attach to it the output attribute of the “iris” dataset.
+	ii) Create a barplot to breakdown your output attribute. 
+	iii) Create a density plot matrix for each attribute by class value. 		[25 M]
+							
+Q.14 	Write an R program to concatenate two given factor in a single factor and 
+	display in descending 	order.						[25 M]*
+
+Q.15 	Write an R program to extract the five of the levels of factor created from a random sample from 	the LETTERS							[25 M]*
+
+Q.16 	Consider the inbuilt mtcar dataset             *
+	i) Subset the vector, “mtcars[,1]“, for values greater than “15.0“.
+	ii) Subset “airquality” for “Ozone” greater than “28“, or “Temp” greater than “70“. Return the 	first five rows.
+	iii) Subset “airquality” for “Ozone” greater than “100“. Select the columns “Ozone“, “Temp“, 	“Month” and “Day” only.						[25 M]
+
+Q.17 	Write an R Program to calculate Decimal into binary of a given number.	[25 M]
+
+Q.18 	Write an R program to create three vectors a,b,c with 3 integers. Combine the three vectors to 	become a 3×3 matrix where each column represents a vector. Print the content of the matrix.								[25 M]*
+
+Q.19 	Write an R program to draw an empty plot and an empty plot specify the axes limits of the 	graphic.								*	[25 M]
+
+Q.20 	Consider Weather dataset
+	i) Selecting using the column number
+	ii) Selecting using the column name
+	iii) Make a scatter plot to compare Wind speed and temperature	[25 M]
+							
+Q.21 	Consider the plantGrowth inbuilt dataset
+	i) Create a variable “y” and attach to it the output attribute of the “plantGrowth” dataset.
+	ii) Create a barplot to breakdown your output attribute. 
+	iii) Create a density plot matrix for each attribute by class value.
+											[25 M]
+Q.22 	Write an R program to print the numbers from 1 to 100 and print "SY" for multiples of 3, print 		"BBA" for multiples of 5, and print "SYBBA" for multiples of both. 	*		[25 M]
+
+Q.23 	Write a script in R to create two vectors of different lengths and give these vectors as input 	to array and print second row of second matrix of the array.		[25 M]*
+
+Q.24 	Write a script in R to create two vectors of different lengths and give these vectors as input 			to array and print Multiplication of those matrices.	*		[25 M]
+
+Q.25 	Write an R program to create a list of elements using vectors, matrices and a functions. Print 	the content of the list.					[25 M] *
+
+Q.26 	Write a script in R to create an array, passing in a vector of values and a vector of 	dimensions. Also provide names for each dimension	.			[25 M]*
+
+Q.27	Write an R Program to calculate binary into Decimal of a given number.	[25 M]
+
+Q.28	Write an R program to convert a given matrix to a list and print list in ascending order.										[25 M]
+
+Q.29	Write a script in R to create a list of students and perform the following *
+	1) Give names to the students in the list.
+	2) Add a student at the end of the list.
+	3) Remove the firstStudent.
+	4) Update the second last student.						[25 M]
+
+Q.30  Write an R program to sort a list of 10 strings in ascending and descending order. * [25 M]
